@@ -22,3 +22,5 @@ Lateral option is reappresented from a connected graph:
     o-o-o   o-o-o
 			 			 
 Reference:  Antonio Simonelli - Grafi - Iris edizioni, 2021
+
+https://digilander.libero.it/a.simonelli/matematicadiscreta/OpzioneLaterale.html
