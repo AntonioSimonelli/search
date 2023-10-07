@@ -1,7 +1,7 @@
 # search
 Here are presented three search algorithms.
 
-The first two are classical algoritms: binary search and fibonacci search,
+The first two are classical algoritms: binary search and Fibonacci search,
 the third one is a mine algorithm: lateral option.
 
 Binary search and fibonacci search are rappresented from a binary tree:
